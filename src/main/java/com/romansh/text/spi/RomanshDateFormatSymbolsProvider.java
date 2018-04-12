@@ -4,7 +4,7 @@
  * 
  * =============================================================================
  */
-package org.romansh.text.spi;
+package com.romansh.text.spi;
 
 import java.text.DateFormatSymbols;
 import java.text.spi.DateFormatSymbolsProvider;
