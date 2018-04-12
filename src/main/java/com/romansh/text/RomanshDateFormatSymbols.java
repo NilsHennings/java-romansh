@@ -15,10 +15,10 @@ public final class RomanshDateFormatSymbols extends DateFormatSymbols {
     private static final long serialVersionUID = 6772605910726027718L;
 
     private static final String[] ROMANSH_SHORT_WEEKDAYS = 
-        {"", "gli", "ma", "me", "gie", "ve", "so", "du"};
+        {"", "du", "gli", "ma", "me", "gie", "ve", "so"};
 
     private static final String[] ROMANSH_WEEKDAYS = 
-    	{"", "glindesdi", "mardi", "mesemna", "gievgia", "venderdi", "sonda", "dumengia"};
+    	{"", "dumengia", "glindesdi", "mardi", "mesemna", "gievgia", "venderdi", "sonda"};
     
     public RomanshDateFormatSymbols() {
         super(Locales.ROMANSH);
